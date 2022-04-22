@@ -1,0 +1,18 @@
+Paulo Andrade
+2 23 12 1995 76 14.0 0
+
+Faisca
+3 1 1 1980 509 0.5 0
+
+Diana Alves Pombo
+4 1 10 1990 55 68.0 0
+
+Ana Luisa Freitas
+7 12 7 1976 68 1.0 0
+
+Claudia Tavares
+9 10 5 1999 50 8.5 0
+
+Jose Miguel
+8 7 5 1999 55 6.0 0
+
